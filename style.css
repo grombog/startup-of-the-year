@@ -21,6 +21,7 @@ hr {
   max-width: 65px;
   margin: 20px auto;
   opacity: 1;
+  border-radius: 200px;
 }
 
 .buffer {
